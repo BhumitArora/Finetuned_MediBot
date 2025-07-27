@@ -1,0 +1,7 @@
+unsloth @ git+https://github.com/unslothai/unsloth.git
+torch
+transformers
+datasets
+trl
+wandb
+kaggle
