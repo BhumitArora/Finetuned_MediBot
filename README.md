@@ -23,6 +23,18 @@ This project demonstrates how to fine-tune the DeepSeek-R1-Distill-Llama-8B mode
 ### Training & Logging:
 - Log training metrics to W&B and save outputs.
 
+## 📌 Notes
+- Training is limited to 500 examples and 60 steps for quick prototyping. 
+
+- Make sure your GPU supports BF16 for better numerical stability (like T4).
+
+- Use wandb to track training stats in real-time.
+
+- Training took around 35 minutes.
+
+- Used Kaggle T4 GPUs for this task.
+
+
 ## 🛠️ Dependencies
 
 Install required packages using:
