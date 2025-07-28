@@ -23,4 +23,12 @@ This project demonstrates how to fine-tune the DeepSeek-R1-Distill-Llama-8B mode
 ### Training & Logging:
 - Log training metrics to W&B and save outputs.
 
+## 🛠️ Dependencies
+
+Install required packages using:
+
+```bash
+pip install -r requirements.txt
+```
+
 
